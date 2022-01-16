@@ -1,5 +1,5 @@
 # Kaggle-
-This is a collection of various kaggle competitions I've done with notebooks in the repo as well as estended descriptions of each files and accompnaying links 
+This is a collection of various kaggle competitions I've done with notebooks in the repository as well as extended descriptions of each file and accompanying links 
 to the public kernels. 
 
 Titanic Deep Learning Classifier - used nlp and other methods for feature engineering and implemented a deep neural network classifier with dropout 
